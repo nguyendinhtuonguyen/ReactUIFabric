@@ -77,10 +77,8 @@ export default class MyRequest extends React.Component<IMyRequestProps, IMyReque
           <Persona
             {...fieldContent}
             size={PersonaSize.size24}
-            presence={fieldContent.presence}
-            hidePersonaDetails={true}
+            hidePersonaDetails={false}
           />
-          <span style={{ "marginLeft": "10px" }}>{fieldContent.text}</span>
         </span>);
 
       case 'PROGRESS':

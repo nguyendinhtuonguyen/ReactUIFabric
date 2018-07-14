@@ -80,8 +80,8 @@ export default class MyRequestWebPart extends BaseClientSideWebPart<IMyRequestWe
     people: [{
       imageUrl: 'https://static2.sharepointonline.com/files/fabric/office-ui-fabric-react-assets/persona-female.png',
       imageInitials: 'CH',
-      text: 'Chau Huynh',
-      secondaryText: 'chau.huynh.thi.bao@preciofishbone.se',
+      primaryText: 'Chau Huynh',
+      secondaryText: 'Adult Developer',
       tertiaryText: 'Online',
       showSecondaryText: true,
       presence: PersonaPresence.online
@@ -89,8 +89,8 @@ export default class MyRequestWebPart extends BaseClientSideWebPart<IMyRequestWe
     {
       imageUrl: 'https://static2.sharepointonline.com/files/fabric/office-ui-fabric-react-assets/persona-male.png',
       imageInitials: 'PJ',
-      text: 'Pär Johansson',
-      secondaryText: 'par.johansson@preciofishbone.se',
+      primaryText: 'Pär Johansson',
+      secondaryText: 'Director',
       tertiaryText: 'In a meeting',
       optionalText: 'Available at 4:00pm',
       showSecondaryText: true,
@@ -98,8 +98,8 @@ export default class MyRequestWebPart extends BaseClientSideWebPart<IMyRequestWe
     },
     {
       imageInitials: 'TD',
-      text: 'Toan Dinh',
-      secondaryText: 'toan.huu.dinh@preciofishbone.se',
+      primaryText: 'Toan Dinh',
+      secondaryText: 'Developer',
       tertiaryText: 'Away',
       showSecondaryText: true,
       presence: PersonaPresence.away
