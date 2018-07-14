@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "codebase-react-ui-fabric",
+    "libraryId": "eebf6476-77ad-4a86-a432-f38bd9e8e563",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "codebase-react-ui-fabric-client-side-solution",
+    "id": "eebf6476-77ad-4a86-a432-f38bd9e8e563",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/codebase-react-ui-fabric.sppkg"
+  }
+}
