@@ -22,8 +22,5 @@
       "dom",
       "es2015.collection"
     ]
-  },
-  "files": [
-    "./src/webparts/myRequest/components/MyRequest.tsx"
-  ]
+  }
 }
